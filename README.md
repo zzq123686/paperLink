@@ -13,5 +13,7 @@
 ## SPP NET
 [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)
 ## Yolo  
+[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 ## SSD
+[SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 # 强化学习
