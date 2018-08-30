@@ -1,3 +1,6 @@
+# 模型
+## AlexNet
+[ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 # 目标检测
 ## RCNN 
 [Rich feature hierarchies for accurate object detection and semantic segmentation](https://dl.dropboxusercontent.com/s/293tu0hh9ww08co/r-cnn-cvpr.pdf?dl=0)  
