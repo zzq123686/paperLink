@@ -21,3 +21,6 @@
 ## SSD
 [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
 # 强化学习
+## DQN
+[Playing Atari with Deep Reinforcement Learning](http://cn.arxiv.org/pdf/1312.5602)  
+[Human-level control through deep reinforcement learning](https://pan.baidu.com/s/1kpZMljYMVusVknqO4xlIlw) 密码：fedm
