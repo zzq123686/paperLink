@@ -24,7 +24,11 @@
 ## DQN
 [Playing Atari with Deep Reinforcement Learning](http://cn.arxiv.org/pdf/1312.5602)  
 [Human-level control through deep reinforcement learning](https://pan.baidu.com/s/1kpZMljYMVusVknqO4xlIlw) 密码：fedm
+## DPG
+## D
 ## DDPG 
 [Continuous control with deep reinforcement learning](http://cn.arxiv.org/pdf/1509.02971)
 ## A3C
 [Asynchronous Methods for Deep Reinforcement Learning](http://cn.arxiv.org/abs/1602.01783)
+## Policy Gradient
+[Policy Gradient Methods for Reinforcement Learning with Function Approximation](http://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
