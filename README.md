@@ -24,7 +24,7 @@
 ## DQN
 [Playing Atari with Deep Reinforcement Learning](http://cn.arxiv.org/pdf/1312.5602)  
 [Human-level control through deep reinforcement learning](https://pan.baidu.com/s/1kpZMljYMVusVknqO4xlIlw) 密码：fedm
-##DDPG 
+## DDPG 
 [Continuous control with deep reinforcement learning](http://cn.arxiv.org/pdf/1509.02971)
 ## A3C
 [Asynchronous Methods for Deep Reinforcement Learning](http://cn.arxiv.org/abs/1602.01783)
